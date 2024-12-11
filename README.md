@@ -12,6 +12,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________
 To use it you should install BepInEx
+
 BepInEx installation guide:
 1. download BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip (or BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip for x86 systems)
 2. extract all files to MiSide folder (it is in SteamLibrary\steamapps\common by default)
@@ -20,6 +21,7 @@ BepInEx installation guide:
 
 
 Для использования вам необходимо установить BepInEx
+
 Руководство по установке BepInEx:
 1. скачайте BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip (или BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip для систем x86)
 2. извлеките все файлы в папку MiSide (по умолчанию она находится в SteamLibrary\steamapps\common)
@@ -31,6 +33,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________
 Plugin installation guide:
+
 1. download Plugin.dll file from here https://github.com/Rist8/MiSide-Console-Unlocker/releases/tag/Release
 2. create a folder named ConsoleUnlocker in MiSide\BepInEx\plugins
 3. place Plugin.dll into MiSide\BepInEx\plugins\ConsoleUnlocker
@@ -38,6 +41,7 @@ Plugin installation guide:
 
 
 Руководство по установке плагина:
+
 1. скачайте файл Plugin.dll отсюда https://github.com/Rist8/MiSide-Console-Unlocker/releases/tag/Release
 2. создайте папку с именем ConsoleUnlocker в MiSide\BepInEx\plugins
 3. поместите Plugin.dll в MiSide\BepInEx\plugins\ConsoleUnlocker
