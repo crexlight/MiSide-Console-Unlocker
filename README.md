@@ -15,7 +15,8 @@ To use it you should install BepInEx
 
 BepInEx installation guide:
 1. download BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip (or BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip for x86 systems) from https://github.com/BepInEx/BepInEx/releases
-direct link to it https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip
+direct link to it 
+https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip
 2. extract all files to MiSide folder (it is in SteamLibrary\steamapps\common by default)
 3. launch the game and wait until the menu screen appears (BepInEx will open the console window in parallel with game window if installed successfully)
 4. exit the game and go to Plugin installation guide
@@ -25,7 +26,8 @@ direct link to it https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pr
 
 Руководство по установке BepInEx:
 1. скачайте BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip (или BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip для систем x86) отсюда https://github.com/BepInEx/BepInEx/releases
-прямая ссылка на скачивание it https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip
+прямая ссылка на его скачивание
+ https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip
 2. извлеките все файлы в папку MiSide (по умолчанию она находится в SteamLibrary\steamapps\common)
 3. запустите игру и дождитесь загрузки экрана меню (BepInEx откроет окно консоли параллельно с окном игры, если установка прошла успешно)
 4. выйдите из игры и перейдите к руководству по установке плагина
