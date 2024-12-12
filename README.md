@@ -15,7 +15,7 @@ To use it you should install BepInEx
 
 BepInEx installation guide:
 1. download BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip (or BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip for x86 systems) from https://github.com/BepInEx/BepInEx/releases
-direct link to it 
+direct link to it
  https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x64-6.0.0-pre.2.zip
 2. extract all files to MiSide folder (it is in SteamLibrary\steamapps\common by default)
 3. launch the game and wait until the menu screen appears (BepInEx will open the console window in parallel with game window if installed successfully)
