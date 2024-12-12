@@ -1,20 +1,25 @@
 using UnityEngine;
 
-public class Plugin : MonoBehaviour{
-	private void Start(){
+public class Plugin : MonoBehaviour
+{
+    private void Start()
+	{
         ConsoleMain.active = true;
     }
 	
-	void Update(){
+	void Update()
+	{
 		if (ConsoleMain.liteVersion)
 		{
 			ConsoleMain.liteVersion = false;
 		}
-        if (UnityEngine.Input.GetKeyDown(KeyCode.F9)){
+        if (UnityEngine.Input.GetKeyDown(KeyCode.F9))
+		{
 			if (Time.timeScale != 0.0f)
 				Time.timeScale = 0.0f;
 			else
 				Time.timeScale = 1.0f;
         }
     }
+	
 }
