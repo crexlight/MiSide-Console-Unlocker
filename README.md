@@ -2,10 +2,10 @@
 
 
 ________________________________________________________________________________________________________________________________________________________
-Mod unlocking console and adding f9 keybind for time stop in MiSide game 
+Mod unlocking console and adding f9 keybind for time stop, U bind for FPS unlocking and / bind for free camera in MiSide game 
 
 
-Мод разблокирующий консоль и добавляющий бинд F9 для остановки времени в игре MiSide
+Мод разблокирующий консоль и добавляющий бинд F9 для остановки времени, бинд U для снятия ограничения фпс и бинд / для свободной камеры в игре MiSide
 ________________________________________________________________________________________________________________________________________________________
 
 
@@ -44,17 +44,17 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
 Plugin installation guide:
 
-1. download Plugin.dll file from here https://github.com/Rist8/MiSide-Console-Unlocker/releases/tag/Release
+1. download ConsoleUnlocker.dll file from here https://github.com/Rist8/MiSide-Console-Unlocker/releases/tag/Release
 2. create a folder named ConsoleUnlocker in MiSide\BepInEx\plugins
-3. place Plugin.dll into MiSide\BepInEx\plugins\ConsoleUnlocker
+3. place ConsoleUnlocker.dll into MiSide\BepInEx\plugins\ConsoleUnlocker
 4. launch the game and check if the mod works by pressing f9 (the game should be paused) press f9 again to unpause the game
 
 
 Руководство по установке плагина:
 
-1. скачайте файл Plugin.dll отсюда https://github.com/Rist8/MiSide-Console-Unlocker/releases/tag/Release
+1. скачайте файл ConsoleUnlocker.dll отсюда https://github.com/Rist8/MiSide-Console-Unlocker/releases/tag/Release
 2. создайте папку с именем ConsoleUnlocker в MiSide\BepInEx\plugins
-3. поместите Plugin.dll в MiSide\BepInEx\plugins\ConsoleUnlocker
+3. поместите ConsoleUnlocker.dll в MiSide\BepInEx\plugins\ConsoleUnlocker
 4. запустите игру и проверьте, работает ли мод, нажав f9 (игра должна быть поставлена ​​на паузу) еще раз нажмите f9, чтобы снять игру с паузы
 ________________________________________________________________________________________________________________________________________________________
 
